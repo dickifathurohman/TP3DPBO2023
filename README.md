@@ -54,4 +54,6 @@ Pada desain database yang dibuat terdapat tiga tabel :
 ![image](https://github.com/dickifathurohman/TP3DPBO2023/assets/100754802/2261e96c-bdfe-40f9-84b6-c3e9f64318d6)
 
 
+Dokumentasi Video dapat dilihat pada file video dengan nama `Vid-TP3 DPBO` yang telah diupload
+
 
