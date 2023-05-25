@@ -1,8 +1,8 @@
 # TP3DPBO2023
 ## Janji
-Dicki Fathurohman_2103842_Ilmu Komputer TP1 DPBO2023
+Dicki Fathurohman_2103842_Ilmu Komputer TP3 DPBO2023
 
-Saya Dicki Fathurohman [2103842] mengerjakan TP1 DPBO2023 dalam mata kuliah DPBO, untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikan. Aamiin.
+Saya Dicki Fathurohman [2103842] mengerjakan TP3 DPBO2023 dalam mata kuliah DPBO, untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikan. Aamiin.
 
 ## Deskripsi Tugas
 Buatlah program menggunakan bahasa pemrograman PHP dengan spesifikasi sebagai berikut:
