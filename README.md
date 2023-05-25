@@ -28,8 +28,8 @@ Pada desain database yang dibuat terdapat tiga tabel :
 2. Pada navbar ada beberapa opsi yang bisa dilakukan :
 - Home : Untuk mengarahkan ke halaman home untuk melihat data-data idol
 - Tambah Idol : Form untuk menginputkan data idol baru atau mengupdate data, pada tabel ini terdapat dua dropdown untuk memilih grup dan posisi.
-- Daftar Grup : Untuk melihat daftar grup yang tersedia, terdapat juga form untuk menginputkan data baru. Pada tabel grup yang tersedia terdapat button edit untuk mengubah data dan hapus untuk menghapus data.
-- Daftar Posisi : Untuk melihat daftar posisi yang tersedia, terdapat juga form untuk menginputkan data baru. Pada tabel posisi yang tersedia terdapat button edit untuk mengubah data dan hapus untuk menghapus data.
+- Daftar Grup : Untuk melihat daftar grup yang tersedia, terdapat juga form untuk menginputkan data baru. Pada tabel grup yang tersedia terdapat button edit untuk mengubah data dan hapus untuk menghapus data. Ketika data pada grup dihapus, maka data idol dengan id grup tersebut akan ikut terhapus
+- Daftar Posisi : Untuk melihat daftar posisi yang tersedia, terdapat juga form untuk menginputkan data baru. Pada tabel posisi yang tersedia terdapat button edit untuk mengubah data dan hapus untuk menghapus data. Jika data pada Posisi dihapus maka data idol dengan posisi tersebut juga akan ikut terhapus
 - Textfield Cari : User dapat menginputkan keyword pencarian pada textfield pencarian yg tersedia pada navbar untuk menampilkan data yang ingin dicari.
 - Filter (hanya tersedia pada halaman home) : Filter digunakan untuk mengurutkan data idol secara ascending berdasarkan nama atau posisi atau grup sesuai dengan pilihan yang dipilih user pada dropdown filter.
 
